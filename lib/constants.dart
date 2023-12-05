@@ -26,3 +26,24 @@ const kTextStyle1 = TextStyle(
   fontSize: 50.0,
   fontWeight: FontWeight.w900,
 );
+
+const kLargeTextStyle = TextStyle(
+  fontSize: 25.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kTextStyleLarge = TextStyle(
+  fontSize: 50.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kResultText = TextStyle(
+  color: Color(0xFF24D876),
+  fontSize: 22.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kBMIResult = TextStyle(
+  fontSize: 100.0,
+  fontWeight: FontWeight.bold,
+);
